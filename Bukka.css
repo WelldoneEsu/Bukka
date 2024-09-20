@@ -1,0 +1,1194 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    position:fixed;
+    width: 100%;
+    background-color:orange;
+    height: 110px;
+    color: white;
+    z-index: 1000;
+}
+.logo{
+    position: absolute;
+    top:0;
+    left: 150px;
+
+}
+.fab{
+    position: absolute;
+    top:45px;
+    left: 1050px;
+    font-size: 20px;
+}
+.user{
+    position: absolute;
+    top:45px;
+    left: 1000px;
+    font-size: 20px;
+    
+}
+.search{
+    position: absolute;
+    top:45px;
+    left: 950px;
+    font-size: 20px;
+    
+    
+}
+
+a{
+    color: white;
+}
+ul{
+    
+    list-style-type: none;
+    overflow: hidden;
+}
+li{
+    float: left;
+ }
+li a:hover{
+    background-color: yellow;
+    border-radius: 40px;
+    height:10px;
+
+}
+li a{
+    display:block;
+    padding: 30px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+ .more{
+    position:absolute;
+    top:15px;
+    left: 820px;
+    
+ }
+ .lounge{
+    position:absolute;
+    top:15px;
+    left: 680px;
+ }
+ .current{
+    position:absolute;
+    top:15px;
+    left: 450px;
+ }
+ .about{
+    position:absolute;
+    top:15px;
+    left: 300px;
+ }
+.top{
+    position: relative;
+    top: 110px;
+
+}
+.gold{
+    position:relative;
+    top : 100px;
+    background-color: gold;
+    height: 60px;
+}
+.whatsapp{
+    position: absolute;
+    top: 15px;
+    font-size: 14px;
+    left: 100px;
+}
+.coins{
+    position: absolute;
+    top: 15px;
+    font-size: 14px;
+    left: 500px;
+}
+.piggy{
+    position: absolute;
+    top: 15px;
+    font-size: 14px;
+    right: 100px;
+}
+.category{
+    position:relative;
+    top: 130px;
+    height: 100px;
+}
+h1{
+    text-align: center;
+}
+.mat2{
+    position: absolute;
+    top:20px;
+    left:580px;
+    color:red; 
+}
+.break{
+    position:absolute;
+    top:120px;
+    left:40px;
+}
+.black{
+    position: absolute;
+    top:140px;
+    left:270px;
+    background-color: black;
+    width:140px;
+    height:215px;
+    text-align: center;
+    color:white;
+
+}
+.dish{
+    position:absolute;
+    top:95px;
+    left:450px;
+}
+.second{
+    position: absolute;
+    top:148px;
+    left:700px;
+    background-color: black;
+    width:140px;
+    height:215px;
+    text-align: center;
+    color:white;
+
+}
+.lunch{
+    position:absolute;
+    top:120px;
+    right:150px;
+}
+.third{
+    position: absolute;
+    top:140px;
+    right:10px;
+    background-color:black;
+    width:140px;
+    height:220px;
+    text-align: center;
+    color:white;
+
+}
+.trending{
+    position:relative;
+    top:430px;
+    background-color: silver;
+    height: 1900px;
+}
+.mat{
+    position: absolute;
+    top :70px;
+    left:600px;
+    color:red; 
+}
+.latest a{
+    position: absolute;
+    top:150px;
+    left:500px;
+    color:black;
+    font-size: 22px;
+    text-decoration: none;
+    background-color: yellow;
+    padding:10px;
+    border-radius: 30px;
+
+}
+.bestseller a{
+    position: absolute;
+    top:150px;
+    right:500px;
+    color:black;
+    font-size: 22px;
+    text-decoration: none;
+    background-color: white;
+    padding:10px;
+    border-radius: 30px;
+
+}
+.cart1{
+    position: absolute;
+    top:250px;
+    left:50px;
+    background-color:white;
+    width:230px;
+    height:300px;
+    text-align: center;
+    color:white;
+}
+.jellof{
+    position:absolute;
+    top:230px;
+    color: black;
+    left:80px;
+}
+.cart2{
+    position: absolute;
+    top:250px;
+    left:370px;
+    background-color:white;
+    width:230px;
+    height:300px;
+    text-align: center;
+    color:white;
+}
+.fried{
+    position:absolute;
+    top:230px;
+    color: black;
+    left:70px;
+}
+.cart3{
+    position: absolute;
+    top:250px;
+    left:700px;
+    background-color:white;
+    width:230px;
+    height:300px;
+    text-align: center;
+    color:white;
+}
+.jolly{
+    position:absolute;
+    top:230px;
+    color: black;
+    left:70px;
+}
+.cart4{
+    position: absolute;
+    top:250px;
+    right:50px;
+    background-color:white;
+    width:230px;
+    height:300px;
+    text-align: center;
+    color:white;
+}
+.juice{
+    position:absolute;
+    top:230px;
+    color: black;
+    right:70px;
+}
+.cart5{
+    position: absolute;
+    top:640px;
+    left:50px;
+    background-color:white;
+    width:550px;
+    height:570px;
+    text-align: center;
+    color:white;
+}
+.cart6{
+    position: absolute;
+    top:640px;
+    right:50px;
+}
+.cart7{
+    position: absolute;
+    top:920px;
+    right:50px;
+}
+.news{
+    position:absolute;
+    top: 1250px;
+    left:550px;
+
+
+
+}
+.cart8{
+    position: absolute;
+    top:1350px;
+    left:50px;
+    background-color:white;
+    width:350px;
+    height:450px;
+    text-align: center;
+    color:white;
+}
+.outlet{
+    position:absolute;
+    top:230px;
+    color: black;
+    left: 10px;
+}
+.outlet2{
+    position:absolute;
+    top:250px;
+    text-align: left;
+    color: black;
+    left:10px;
+}
+.cart9{
+    position: absolute;
+    top:1350px;
+    left:450px;
+    background-color:white;
+    width:350px;
+    height:350px;
+    text-align: center;
+    color:white;
+}
+.years{
+    position:absolute;
+    top:230px;
+    left: 2px;
+    color: black;
+    left: 10px;
+}
+.years2{
+    position:absolute;
+    top:250px;
+    text-align: left;
+    color: black;
+    left: 10px;
+}
+.cart10{
+    position: absolute;
+    top:1350px;
+    right:50px;
+    background-color:white;
+    width:350px;
+    height:450px;
+    text-align: center;
+    color:white;
+}
+.safe{
+    position:absolute;
+    top:230px;
+    right: 2px;
+    text-align: justify;
+    color: black;
+    left: 10px;
+}
+.safe2{
+    position:absolute;
+    top:250px;
+    text-align: left;
+    color: black;
+    left: 10px;
+}
+.newsletter{
+    position:relative;
+    top:420px;
+    background-color: orange;
+    height:150px;
+
+}
+.sign{
+    position:absolute;
+    top:40px;
+    left:70px;
+    color:white;
+    text-align: left;
+    
+}
+.sign2{
+    position:absolute;
+    top:80px;
+    left:70px;
+    color:white;
+    text-align: left;
+    
+}
+.sub{
+    position:absolute;
+    top:40px;
+    right:600px;
+    color:white;
+    text-align: right;
+    
+}
+.email{
+    position:absolute;
+    border-style: none;
+    text-align: left;
+    border-radius: 30px;
+    width:400px;
+    height:40px;
+    
+}
+a{
+    text-decoration: none;
+}
+.subscribe{
+    position: absolute;
+    top:40px;
+    right:150px;
+    background-color: black;
+    color: white;
+
+    padding:10px;
+    border-radius: 20px;
+}
+footer{
+    position:relative;
+    top:400px;
+    background-color: black;
+    color:white;
+    height:800px;
+}
+.logo2{
+    position: absolute;
+    top: 40px;
+    left: 550px;
+}
+.bukkha{
+    position: absolute;
+    top:200px;
+    left:480px;
+}
+table{
+    position:absolute;
+    top:250px;
+    width:1200px;
+    border-collapse: collapse;
+    left:50px;
+}
+ td,th{
+    text-align: left;
+    padding: 5px;
+ }
+ h3{
+    font-size:23px;
+ }
+ .audit{
+    position: absolute;
+    top:380px;
+    left:50px;
+ }
+ .power{
+    position:absolute;
+    top: 700px;
+    left: 470px;
+ }
+ .social{
+    position:absolute;
+    top:10px;
+    right:1300px;
+ }
+ .twit{
+    position:absolute;
+    top:10px;
+    right:1210px;
+ }
+ .ins{
+    position: absolute;
+    top:10px;
+    right:1130px;
+ }
+ /*    tablet screen   */
+@media screen and (min-width:768px) and (max-width:1024px){
+    body{
+        font-size: 16px;
+        line-height: 1.5;
+        width: 100%;
+    }
+
+
+    /*      header      */
+    .logo{
+        position: relative;
+        left: 20px;
+    }
+
+    /*      nav     */
+    nav{
+        position: relative;
+        top: -210px;
+        left: -130px;
+    }
+    li a:hover{
+        height:3px;
+    }
+    li a{
+        padding: 30px;
+        font-size: 18px;
+    }
+    .about{
+        position: relative;
+        left: -115px;
+    }
+    .current{
+        position: relative;
+        left: 220px;
+    }
+    .lounge{
+        position:relative;
+        left:540px ;
+    }
+    .more{
+        position:relative;
+        left:770px ; 
+    }
+    .fab{
+        position: relative;
+        top:-78px;
+        left: 865px;
+        font-size: 20px;
+    }
+    .user{
+        position: relative;
+        top:-107px;
+        left: 825px;
+        font-size: 20px;
+        
+    }
+    .search{
+        position: relative;
+        top:-135px;
+        left: 780px;
+        font-size: 20px;  
+    } 
+    
+    
+    .gold{
+        gap: 20px;
+    }
+    .whatsapp{
+        font-size: 12px;
+    }
+    .coins{
+        font-size: 12px;
+        position: relative;
+        left: 335px;
+    }
+    .piggy{
+        font-size: 12px;
+    }
+
+
+    /*      section     */
+    h1{
+        font-weight: 600;
+        font-size: 24px;
+    }
+
+    .mat2{
+        position: absolute;
+        top:20px;
+        left:430px;
+    }
+    .break{
+        position:absolute;
+        top:120px;
+        left:40px;
+    }
+    .black{
+        position: absolute;
+        top:130px;
+        left:190px;
+        width:100px;
+        height:130px;
+    }
+    .dish{
+        position:absolute;
+        top:120px;
+        left:350px;
+    }
+    .second{
+        position: absolute;
+        top:145px;
+        left:500px;
+        width:100px;
+        height:100px;
+    
+    }
+    .lunch{
+        position:absolute;
+        top:120px;
+        right:130px;
+    }
+    .third{
+        position: absolute;
+        top:135px;
+        right:40px;
+        width:100px;
+        height:130px;
+    
+    }
+    .img-run{
+        width: 150px;
+        height: 150px;
+    }
+
+
+    .mat{
+        position: absolute;
+        top :50px;
+        left:435px;
+    }
+
+    .latest a{
+        font-size: 18px; 
+    }
+    .bestseller a{
+        font-size: 18px;
+    }
+
+    .cart1{
+        height: 250px;
+        width:170px ;
+    }
+    .jellof{
+        position: relative;
+        top:15px;
+        left: 0px;
+    }
+    .cart2{
+        height: 250px;
+        width:170px ;
+        position: absolute;
+        top: 250px;
+        left:270px;
+    }
+    
+    .cart3{
+        height: 250px;
+        width:170px ;
+        position: relative;
+        top: 180px;
+        left:490px;
+    }
+    .jolly{
+        position: relative;
+        top: 15px;
+        left: 0px;
+    }
+    .fried{
+        position: relative;
+        top: -10px;
+        left: 0px;
+    }
+    .juice{
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+    .cart4{
+        height: 250px;
+        width:170px ;
+    }
+    .trend-pic{
+        width: 120px;
+    }
+    .cart5{
+        width: 550px;
+    }
+    .chop-2{
+        height: 250px;
+        position: relative;
+        top: -0px;
+    }
+    .adv{
+        width: 270px;
+        height: 290px;
+    }
+
+    .news-1{
+        position: relative;
+        left: -140px;
+    }
+
+    /*      latest news     */
+    .trending{
+        position:relative;
+        top:430px;
+        height: 2240px;
+    }
+    .news-text{
+        font-size: 14px;
+    }
+    .cart9{
+        position: absolute;
+        top:1820px;
+        left:50px;
+        width:350px;
+        height:360px;
+    }
+    .cart10{
+        height:460px;
+    }
+
+    
+    /*      newsletter signup       */
+    form{
+        position: relative;
+        top: 3px;
+        left: 210px;
+    }
+    input[type="email"]{
+        width: 280px;
+        padding-left: 20px;
+        height: 45px;
+    }
+    .subscribe{
+        position: relative;
+        top: 43px;
+        left: 790px;
+        width: 60px;
+        
+    }
+
+
+    /*      fotter      */
+
+    .logo2{
+        position: relative;
+        left: 40%;
+    }
+    .bukkha{
+        position: relative;
+        top: 6%;
+        left: 33%;
+    }
+    table{
+        width: 90%;
+        position: relative;
+        top: 80px;
+        left: 65px;
+    }
+    .audit{
+        position: relative;
+        top: 110px;
+        width: 280px;
+    }
+    .code{
+        height:170px ;
+        width:210px ;
+    }
+
+    .power{
+         position:absolute;
+         top: 700px;
+         left: 490px;
+    }
+    .foot-text{
+        position: relative;
+        left: -190px;
+    }
+}
+
+
+
+/*    mobile screen   */
+@media only screen and (max-width:767px) {
+    body {
+      font-size: 16px;
+      overflow-x: hidden ;
+      width: 100%;
+    }
+  
+
+            /*      header      */
+    .header{
+        height: 15%;
+        width: 100%;
+    }
+    .logo{
+        position: relative;
+        left: 5px;
+        height: 150px;
+    }
+    .logo-1{
+        height: 60%;
+    }
+
+    /*      nav     */
+    nav{
+        position: relative;
+        top: -210px;
+        left: -130px;
+    }
+    li a:hover{
+        border-radius: 40px;
+        height:10px;
+    
+    }
+    li a{
+        padding: 8px;
+        font-size: 10px;
+    }
+    .more{
+        position:absolute;
+        top:15px;
+        left: 820px;
+        
+     }
+     .lounge{
+        position:absolute;
+        top:15px;
+        left: 330px;
+     }
+     .current{
+        position:absolute;
+        top:83px;
+        left: 330px;
+     }
+     .about{
+        position:absolute;
+        top:85px;
+        left: 230px;
+     }
+
+     .top{
+        position: relative;
+        top: 90px;
+    }
+    .gold{
+        position:relative;
+        top : 80px;
+        height: 60px;
+    }
+    .whatsapp{
+        position: absolute;
+        top: 15px;
+        font-size: 10px;
+        left: 20px;
+    }
+    .coins{
+        position: absolute;
+        top: 15px;
+        font-size: 10px;
+        left: 300px;
+    }
+    .piggy{
+        position: absolute;
+        top: 40px;
+        font-size: 10px;
+        right: 150px;
+    }
+
+    /*      section     */
+    h1{
+        font-weight: 600;
+        font-size: 18px;
+    }
+    .category{
+        position: relative;
+        top: 110px;
+        margin-bottom: 120%;
+    }
+    .mat2{
+        position: absolute;
+        top:-10px;
+        left:210px;
+        font-size: 30px;
+    }
+    .break{
+        position:absolute;
+        top:90px;
+        left:50px;
+    }
+    .black{
+        position: absolute;
+        top:106px;
+        left:290px;
+        width:140px;
+        height:219px;
+    
+    }
+    .dish{
+        position:absolute;
+        top:350px;
+        left:50px;
+    }
+    .second{
+        position: absolute;
+        top:392px;
+        left:300px;
+        width:130px;
+        height:166px;
+    }
+    .lunch{
+        position:absolute;
+        top:610px;
+        left:35px;
+    }
+    .third{
+        position: absolute;
+        top:630px;
+        left:270px;
+        width:140px;
+        height:220px;
+    }
+    
+
+ 
+    /*      trending        */
+    .trending{
+        position:relative;
+        top:430px;
+        height: 3370px;
+    }
+    .mat{
+        position: absolute;
+        top :40px;
+        left:210px; 
+    }
+    .latest a{
+        position: absolute;
+        top:130px;
+        font-size: 18px;
+        left:10rem;
+        padding:10px;
+        border-radius: 30px;
+    
+    }
+    .bestseller a{
+        position: absolute;
+        top:130px;
+        right:100px;
+        font-size: 18px;
+        padding:10px;
+        border-radius: 30px;
+    
+    }
+    .cart1{
+        position: absolute;
+        top:210px;
+        left:15px;
+        width:210px;
+        height:300px;
+    }
+    .jellof{
+        position:absolute;
+        top:230px;
+        left:70px;
+    }
+    .cart2{
+        position: absolute;
+        top:210px;
+        left:250px;
+        width:210px;
+        height:300px;
+    }
+    .fried{
+        position:absolute;
+        top:245px;
+        left:60px;
+    }
+    .cart3{
+        position: absolute;
+        top:550px;
+        left:15px;
+        width:210px;
+        height:300px;
+    }
+    .jolly{
+        position:absolute;
+        top:230px;
+        left:70px;
+    }
+    .cart4{
+        position: absolute;
+        top:550px;
+        left:250px;
+        width:210px;
+        height:300px;
+    }
+    .juice{
+        position:absolute;
+        top:230px;
+        right:70px;
+    }
+    .chops{
+        width: 443px;
+    }
+    .cart5{
+        position: absolute;
+        top:1320px;
+        left:18px;
+        width:443px;
+        height:570px;
+    }
+    .chop-2{
+        width: 443px;
+    }
+    .cart6{
+        position: absolute;
+        top:1100px;
+        left:17px;
+    }
+    .cart7{
+        position: absolute;
+        top:880px;
+        left:16px;
+    }
+    .adv{
+        width: 444px;
+    }
+    .trend-pic{
+        width: 80%;
+    }
+
+
+    /*      News        */
+   .news{
+    position:absolute;
+    top: 1250px;
+    left:550px;
+}
+.news-1{
+position: relative;
+top: 680px;
+left: -335px;
+}
+.cart8{
+    position: absolute;
+    top:2000px;
+    left:65px;
+    width:350px;
+    height:450px;
+
+}
+.outlet{
+    position:absolute;
+    top:230px;
+    left: 10px;
+}
+.outlet2{
+    position:absolute;
+    top:250px;
+    left:10px;
+}
+.cart9{
+    position: absolute;
+    top:2480px;
+    left:65px;
+    width:350px;
+    height:350px;
+}
+.years{
+    position:absolute;
+    top:230px;
+    left: 2px;
+    left: 10px;
+}
+.years2{
+    position:absolute;
+    top:250px;
+    text-align: left;
+    left: 10px;
+}
+.cart10{
+    position: absolute;
+    top:2865px;
+    left:65px;
+    width:350px;
+    height:450px;
+}
+.safe{
+    position:absolute;
+    top:230px;
+    right: 2px;
+    text-align: justify;
+    left: 10px;
+}
+.safe2{
+    position:absolute;
+    top:250px;
+    text-align: left;
+    left: 10px;
+}
+
+
+
+    /*      newsletter signup       */
+    .newsletter{
+        height: 100px;
+    }
+    .sign{
+        position: relative;
+        top: 15px;
+        left: -130px;
+    }
+    .sign2{
+        position: relative;
+        top: 15px;
+        left: 18px;
+        width: 250px;
+    }
+    form{
+        position: relative;
+        top: -37px;
+        left: 405px;
+    }
+    input[type="email"]{
+        width: 170px;
+        padding-left: 10px;
+        height: 45px;
+        border-radius: 12px;
+    }
+    .subscribe{
+        position: relative;
+        top: -8px;
+        left: 284px;
+        width: 60px;
+        height: 10px;
+        font-size: 14px;
+        border-radius: 12px;
+        
+    }
+
+
+    /*      footer      */
+    .logo2{
+        position: relative;
+        top: 0px;
+        left: 35%;
+    }
+    .bukkha{
+        position: relative;
+        top: 1%;
+        left: 23%;
+        font-size: 14px;
+    }
+    h3{
+        font-size: 16px;
+    }
+    td{
+        font-size: 12px;
+    }
+    table{
+        width: 90%;
+        position: relative;
+        top: 40px;
+        left: 25px;
+    }
+    .audit{
+        position: relative;
+        top: 70px;
+        left: 30px;
+        width: 280px;
+    }
+    .code{
+        height:130px ;
+        width:170px ;
+    }
+
+    .power{
+         position:absolute;
+         top: 550px;
+         left: 140px;
+    }
+    .foot-text{
+        position: relative;
+        left: -25px;
+        font-size: 12px;
+        width: 250px
+    }
+    .logo img{
+        width:100px;
+    }
+    
+}
+
+
+ 
